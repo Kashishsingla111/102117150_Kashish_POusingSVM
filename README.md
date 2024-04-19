@@ -14,10 +14,15 @@ Methodology:
 Steps to be followed:
 
 Step 1: Choose a multi-class dataset from the UCI library with the specified criteria.
+
 Step 2: Load the dataset and perform basic data analytics.
+
 Step 3: Divide the dataset into training and testing sets with a 70-30 split for 10 different samples.
+
 Step 4: Optimize the SVM for each sample with 100 iterations and record the best parameters.
+
 Step 5: Plot the convergence graph for the sample with the maximum accuracy.
+
 Step 6: Showcase the complete results, including the comparative performance table and convergence graph, on GitHub.
 
 Tabular Results
